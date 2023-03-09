@@ -1,0 +1,16 @@
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\bin\Debug\netcoreapp3.1\PersonelFinder.DataAccess.deps.json
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\bin\Debug\netcoreapp3.1\PersonelFinder.DataAccess.runtimeconfig.json
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\bin\Debug\netcoreapp3.1\PersonelFinder.DataAccess.runtimeconfig.dev.json
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\bin\Debug\netcoreapp3.1\PersonelFinder.DataAccess.dll
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\bin\Debug\netcoreapp3.1\PersonelFinder.DataAccess.pdb
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\bin\Debug\netcoreapp3.1\PersonelFinder.Entities.dll
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\bin\Debug\netcoreapp3.1\PersonelFinder.Entities.pdb
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\obj\Debug\netcoreapp3.1\PersonelFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\obj\Debug\netcoreapp3.1\PersonelFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\obj\Debug\netcoreapp3.1\PersonelFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\obj\Debug\netcoreapp3.1\PersonelFinder.DataAccess.AssemblyInfo.cs
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\obj\Debug\netcoreapp3.1\PersonelFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\obj\Debug\netcoreapp3.1\PersonelFinder.DataAccess.csproj.CopyComplete
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\obj\Debug\netcoreapp3.1\PersonelFinder.DataAccess.dll
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\obj\Debug\netcoreapp3.1\PersonelFinder.DataAccess.pdb
+C:\Users\Eren Kahraman\source\repos\Personell\Personel.DataAccess\obj\Debug\netcoreapp3.1\PersonelFinder.DataAccess.genruntimeconfig.cache

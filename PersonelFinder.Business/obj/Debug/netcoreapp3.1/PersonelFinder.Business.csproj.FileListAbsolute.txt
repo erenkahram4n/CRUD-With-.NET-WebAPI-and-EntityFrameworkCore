@@ -1,0 +1,15 @@
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\bin\Debug\netcoreapp3.1\PersonelFinder.Business.deps.json
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\bin\Debug\netcoreapp3.1\PersonelFinder.Business.dll
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\bin\Debug\netcoreapp3.1\PersonelFinder.Business.pdb
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\bin\Debug\netcoreapp3.1\PersonelFinder.DataAccess.dll
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\bin\Debug\netcoreapp3.1\PersonelFinder.Entities.dll
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\bin\Debug\netcoreapp3.1\PersonelFinder.DataAccess.pdb
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\bin\Debug\netcoreapp3.1\PersonelFinder.Entities.pdb
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\obj\Debug\netcoreapp3.1\PersonelFinder.Business.csproj.AssemblyReference.cache
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\obj\Debug\netcoreapp3.1\PersonelFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\obj\Debug\netcoreapp3.1\PersonelFinder.Business.AssemblyInfoInputs.cache
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\obj\Debug\netcoreapp3.1\PersonelFinder.Business.AssemblyInfo.cs
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\obj\Debug\netcoreapp3.1\PersonelFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\obj\Debug\netcoreapp3.1\PersonelFinder.Business.csproj.CopyComplete
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\obj\Debug\netcoreapp3.1\PersonelFinder.Business.dll
+C:\Users\Eren Kahraman\source\repos\Personell\PersonelFinder.Business\obj\Debug\netcoreapp3.1\PersonelFinder.Business.pdb

@@ -1,0 +1,10 @@
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\bin\Debug\netcoreapp3.1\PersonelFinder.Entities.deps.json
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\bin\Debug\netcoreapp3.1\PersonelFinder.Entities.dll
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\bin\Debug\netcoreapp3.1\PersonelFinder.Entities.pdb
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\obj\Debug\netcoreapp3.1\PersonelFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\obj\Debug\netcoreapp3.1\PersonelFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\obj\Debug\netcoreapp3.1\PersonelFinder.Entities.AssemblyInfo.cs
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\obj\Debug\netcoreapp3.1\PersonelFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\obj\Debug\netcoreapp3.1\PersonelFinder.Entities.dll
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\obj\Debug\netcoreapp3.1\PersonelFinder.Entities.pdb
+C:\Users\Eren Kahraman\source\repos\Personell\personel.entities\obj\Debug\netcoreapp3.1\PersonelFinder.Entities.csproj.AssemblyReference.cache
