@@ -11,7 +11,7 @@ namespace PersonelFinder.DataAccess
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Data Source=sql.athena.domainhizmetleri.com;Initial Catalog=beetechy_staj;User ID=beetechy_staj;Password=beetechstaj;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            optionsBuilder.UseSqlServer("Connection String");
         }
         public DbSet<Personel> Personeller { get; set; }
     }
